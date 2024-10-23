@@ -31,7 +31,7 @@ import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Skull from '../components/Skull.vue';
 import AppAccounts from '../components/AppAccounts.vue';
-import Home from '../components/Home.vue';  // Import the Home component
+import Home from '../components/homepage.vue';  // Import the Home component
 import NewAccount from '../components/NewAccount.vue';  // Import the NewAccount component
 
 Vue.use(VueRouter);

@@ -11,6 +11,8 @@ on:
 
 env:
   FRONTEND_WEBAPP_DEV: lmuci-fe-dev
+  FRONTEND_WEBAPP_UAT: lmuci-fe-uat
+
 
 jobs:
   build:

@@ -41,4 +41,4 @@ export default
             this.getSkull()
         }
     }
-</script> 
+</script>  
